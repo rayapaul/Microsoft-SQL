@@ -1,0 +1,6 @@
+CREATE TABLE TestTable(
+Column_A VARCHAR(100),
+Column_B INT,
+Column_C DATETIME,
+COLUMN_D VARCHAR(10)
+)
